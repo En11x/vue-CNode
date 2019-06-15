@@ -26,7 +26,7 @@
 							<i class="icon-about"></i>关于
 						</div>
 						<div @click='logOut' v-if='ak' class="out block">
-							<i class="icon-out"></i>退出
+						<i class="icon-out"></i>退出
 						</div>
 						<div class="cnode"></div>
 					</div>
